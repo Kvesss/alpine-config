@@ -2,7 +2,7 @@ build:
   version: "v1"
 
 accounts:
-  message: "Message about Accounts PROD"
+  message: "Message about Accounts PRODUCTION"
   contactDetails:
     name: "Edward Teller"
     email: "eteller@gmail.com"
