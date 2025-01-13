@@ -2,7 +2,7 @@ build:
   version: "v1"
 
 loans:
-  message: "Message about Loans PROD"
+  message: "Message about Loans PRODUCTION"
   contactDetails:
     name: "Edward Teller"
     email: "eteller@gmail.com"
